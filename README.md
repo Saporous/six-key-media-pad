@@ -1,11 +1,12 @@
 # six-key-pad
 Sketch for macro keypad with 6 keys (2 rows, 3 columns), used for media controls
-1 - Vol down 
-2 - mute
-3 - Vol up
-4 - previous track
-5 - Play/pause
-6 - next track
+
+1. Vol down 
+2. Mute
+3. Vol up
+4. Previous track
+5. Play/pause
+6. Next track
 
 Hardware :
 
