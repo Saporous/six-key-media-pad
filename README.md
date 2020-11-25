@@ -1,4 +1,4 @@
-# six-key-pad
+# six-key-media-pad
 Sketch for macro keypad with 6 keys (2 rows, 3 columns), used for media controls
 
 1. Vol down 
